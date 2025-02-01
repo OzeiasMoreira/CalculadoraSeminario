@@ -67,7 +67,7 @@ class _CalculadoraTelaState extends State<CalculadoraTela> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Calculadora TUNADA")),
+      appBar: AppBar(title: Text("CALCULADORA TUNADA")),
       body: Column(
         children: [
           Expanded(
